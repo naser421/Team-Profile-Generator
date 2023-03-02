@@ -11,6 +11,7 @@
 - [ User Story ](#User-Story)
 - [ Technologies ](#Technologies)
 - [ Installation ](#Installation)
+- [Walkthrough Video](#walkthrough)
 - [ Usage ](#Usage)
 - [ Questions ](#Questions)
 - [ License ](#License)
@@ -38,6 +39,10 @@ Node.js, Javascript, HTML
 ## Installation
 
 You can clone the repository locally
+
+## Walkthrough Video
+[Walkthrough Video - Functionality.webm](https://user-images.githubusercontent.com/112986806/222432063-90fa3f68-67ac-4799-96d8-76074ca56cfd.webm)
+[Walkthrough Video - Tests.webm](https://user-images.githubusercontent.com/112986806/222432532-066f318c-edf3-4f7d-bc02-fd78524e4d0b.webm)
 
 ## Usage
 
