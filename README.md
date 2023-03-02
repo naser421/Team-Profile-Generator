@@ -1,8 +1,8 @@
 # Module 10 - Team Profile Generator
 
-[![github-follow](https://img.shields.io/github/followers/TimothyGakunju?label=Follow&logoColor=purple&style=social)](https://github.com/TimothyGakunju)
-[![project-languages-used](https://img.shields.io/github/languages/count/TimothyGakunju/Module-10-Team-Profile-Generator?color=important)](https://github.com/TimothyGakunju/Module-10-Team-Profile-Generator)
-[![project-top-language](https://img.shields.io/github/languages/top/TimothyGakunju/Module-10-Team-Profile-Generator?color=blueviolet)](https://github.com/TimothyGakunju/Module-10-Team-Profile-Generator)
+[![github-follow](https://img.shields.io/github/followers/naser421?label=Follow&logoColor=purple&style=social)](https://github.com/naser421)
+[![project-languages-used](https://img.shields.io/github/languages/count/naser421/Team-Profile-Generator?color=important)](https://github.com/naser421/Team-Profile-Generator)
+[![project-top-language](https://img.shields.io/github/languages/top/naser421/Team-Profile-Generator?color=blueviolet)](https://github.com/naser421/Team-Profile-Generator)
 [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Table of Contents:
