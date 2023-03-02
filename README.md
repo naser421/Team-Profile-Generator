@@ -11,7 +11,7 @@
 - [ User Story ](#User-Story)
 - [ Technologies ](#Technologies)
 - [ Installation ](#Installation)
-- [Walkthrough Video](#walkthrough video)
+- [ Walkthrough Video](#walkthrough video)
 - [ Usage ](#Usage)
 - [ Questions ](#Questions)
 - [ License ](#License)
